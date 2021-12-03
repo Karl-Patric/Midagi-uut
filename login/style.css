@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 10;
+    scroll-behavior: smooth;
+    overflow: hidden;
+}
+
+
+.box   {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 85px;
+}
+.container{
+    background-color: lightgrey;
+    width: 400px;
+    height: 550px;
+}
+
+
+
